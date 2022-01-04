@@ -1,0 +1,16 @@
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\Dotnet_poo.exe
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\Dotnet_poo.deps.json
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\Dotnet_poo.runtimeconfig.json
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\Dotnet_poo.runtimeconfig.dev.json
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\Dotnet_poo.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\ref\Dotnet_poo.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\bin\Debug\net5.0\Dotnet_poo.pdb
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\ref\Dotnet_poo.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.pdb
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\Dotnet_poo\obj\Debug\net5.0\Dotnet_poo.genruntimeconfig.cache
